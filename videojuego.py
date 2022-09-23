@@ -12,7 +12,7 @@ def run():
             print("Busca un número mas grande")
         else:
             print("Busca un número más pequeño")
-        numero_elegido=int(input("Elige otro número: "))
+        numero_elegido=int(input("Elige otro número, no seas menso: "))
     print("¡Ganaste!")
 
 
