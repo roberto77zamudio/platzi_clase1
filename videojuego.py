@@ -20,7 +20,5 @@ if  __name__ == "__main__":
     run()
 
 
-#estoy haciendo un cambio para la cabecer de git
-#mi primer update ya mergeado
 
     
