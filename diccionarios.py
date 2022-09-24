@@ -3,6 +3,7 @@ def run():
         "iphone_12":12000,
         "iphone_13":13000,
         "iphone_14":14000,
+        "iphone_15":15000,
     }
     # print (costo_iphone)
 
